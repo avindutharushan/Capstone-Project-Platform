@@ -8,7 +8,7 @@
 http://35.200.200.71:9001
 
 ## Live Application (Cloud Run - PaaS)
-https://capstone-webapp-779717757562.asia-south1.run.app
+http://34.100.220.221:3000/
 
 ## Technology Stack
 - Java 25, Spring Boot, Spring Cloud
