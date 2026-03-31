@@ -10,6 +10,8 @@ http://35.200.200.71:9001
 ## Live Application (Cloud Run - PaaS)
 http://34.100.220.221:3000/
 
+https://capstone-webapp-779717757562.asia-south1.run.app
+
 ## Technology Stack
 - Java 25, Spring Boot, Spring Cloud
 - Config Server (port 9000), Eureka (port 9001), API Gateway (port 7000)
